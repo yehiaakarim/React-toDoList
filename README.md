@@ -1,6 +1,6 @@
 # Designed and Developed a To-Do-List site using React.js + Vite, with features to add, edit, delete, and reorder items using arrow controls, ensuring seamless functionality across all device types."
 # Deployed Version
-[React To-Do List (opens in new tab)](https://yehiaakarim.github.io/React-toDoList/)
+[React To-Do List 🔗](https://yehiaakarim.github.io/React-toDoList/)
 
 Download the project and open it in Visual Studio Code or any Source-Code Editor. Navigate to the project's root folder (where you'll find vite.js, package.json, the src folder, and other project files). Then, run the following commands:- 
 # npm install 
